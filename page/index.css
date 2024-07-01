@@ -1,0 +1,91 @@
+/* Define the Poppins Black font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+header {
+}
+
+.logo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800 !important;
+    font-size: 30px;
+}
+
+.nav-item {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+/*Card Item CSS*/
+
+.card-item {
+    height: 375px;
+    width: 375px;
+}
+
+.card-item img {
+    height: 260px;
+}
+
+.card-item-title {
+    font-family: 'BebasNeue', sans-serif;
+    font-weight: bold;
+    color: #0d2d56;
+}
+
+.card-item-price {
+    color: blue !important;
+
+}
+
+.card-item-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-item-old-price {
+    color: darkgray !important;
+    text-decoration: line-through !important;
+}
+
+/*Card Icon CSS*/
+.card-icon-top {
+    color: darkgray;
+    /*margin: 30px;*/
+}
+
+.card-icon-title {
+    font-family: 'BebasNeue', sans-serif;
+    font-weight: bold;
+    color: #0d2d56;
+}
+
+.card-icon-body {
+    margin: 70px;
+}
+
+.card-icon-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-icon-click {
+    font-family: 'Montserrat', sans-serif;
+    color: blue !important;
+    font-weight: bold;
+}
+
+.card-item-x4 {
+    height: 750px;
+    width: 750px;
+}
+
+/*Section*/
+.section1 {
+    margin-top: -80px;
+}
+
+/*logo img*/
+.logo-img {
+    margin-bottom: 0px;
+    height: 250px;
+    width: 250px;
+    border: rgba(169, 169, 169, 0.85) solid 1px;
+}
