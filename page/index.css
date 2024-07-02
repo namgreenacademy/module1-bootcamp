@@ -106,3 +106,11 @@ header {
     width: 375px;
 }
 
+.footer-item-menu-text {
+    color: #3753da !important;
+    font-weight: normal !important;
+}
+
+.footer-item-menu {
+    font-size: 12px;
+}
