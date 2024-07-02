@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
 
 header {
+    height: 80px;
 }
 
 .logo {
@@ -13,6 +14,10 @@ header {
 .nav-item {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+}
+
+.icon-social {
+    padding: 24px;
 }
 
 /*Card Item CSS*/
@@ -77,6 +82,11 @@ header {
     width: 750px;
 }
 
+.card-itemx2 {
+    height: 375px;
+    width: 750px;
+}
+
 /*Section*/
 .section1 {
     margin-top: -80px;
@@ -89,3 +99,10 @@ header {
     width: 250px;
     border: rgba(169, 169, 169, 0.85) solid 1px;
 }
+
+/*img */
+.img-banner {
+    height: 375px !important;
+    width: 375px;
+}
+
